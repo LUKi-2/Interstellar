@@ -8,6 +8,7 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     LUKi: "P@s$w0rd",
+    imcorwi: "Antelope1@"
   },
 };
 
